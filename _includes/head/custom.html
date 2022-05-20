@@ -35,4 +35,7 @@
 </script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
 
+{% if site.analytics and jekyll.environment == 'production' %}
+  {% include analytics.html %}
+{% endif %}
 <!-- end custom head snippets -->
