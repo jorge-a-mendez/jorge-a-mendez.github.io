@@ -1,0 +1,17 @@
+---
+permalink: /
+title: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+I am an incoming Postdoctoral Fellow at the [Learning &amp; Intelligent Systems Group](https://lis.csail.mit.edu) at [MIT CSAIL](https://www.csail.mit.edu), where I will work with [Prof. Tom&aacute;s Lozano-P&eacute;rez](https://people.csail.mit.edu/tlp/) and [Prof. Leslie Pack Kaelbling](http://people.csail.mit.edu/lpk/). I obtained my Ph.D. at the [Lifelong Machine Learning Group](https://lifelongml.seas.upenn.edu) at the [University of Pennsylvania](http://cis.upenn.edu), where I was advised by [Prof. Eric Eaton](https://seas.upenn.edu/~eeaton). I previously obtained a Master's degree in Robotics from the [GRASP Lab](https://www.grasp.upenn.edu) at Penn, and got my Bachelor's degree in Electronics Engineering from [Universidad Simon Bolivar](http://www.usb.ve) in Venezuela.
+
+During my Ph.D., I was fortunate to work as a research intern in 2021 at FAIR NYC with [Arthur Szlam](https://scholar.google.com/citations?user=u3-FxUgAAAAJ&hl=en) and [Ludovic Denoyer](http://www-connex.lip6.fr/~denoyer/wordpress/) on mixture of experts models, in 2020 at MSR Montreal with [Harm van Seijen](https://www.microsoft.com/en-us/research/people/havansei/) on lifelong learning of compositional reinforcement learning problems, and in 2019 at Facebook AI with [Alborz Geramifard](http://alborz-geramifard.com/Homepage/Welcome.html) and [Mohammad Ghavamzadeh](https://mohammadghavamzadeh.github.io) on multidomain reinforcement learning for dialog. I previously spent a year at [Politecnico di Milano](https://www.deib.polimi.it/eng/computer-science-and-engineering) in Italy, where I took graduate courses in AI and Robotics, and spent five months at the Advanced Systems Technology group in [STMicroelectronics](https://www.st.com/).
+
+Research Interests
+-----
+
+I'm interested in the creation of versatile artificially intelligent systems that learn to accumulate knowledge over their lifetimes. I focus on the question of how agents can decompose the complex knowledge required to model a lifelong data stream into simpler units that can be adapted and reused in the future. My work applies these methods to computer vision, robotics, and natural language.
