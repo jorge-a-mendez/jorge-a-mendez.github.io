@@ -17,7 +17,7 @@ Education
 * M.S.E. in Robotics, University of Pennsylvania, 2018
 * B.S. in Eletronics Engineering, Universidad Simon Bolivar (Venezuela), 2016
 
-Research experience
+Research Experience
 ======
 
 * Summer 2022: Postdoctoral Researcher
@@ -73,12 +73,6 @@ Workshop Papers
     {% endif %}
   {% endfor %}</ul>
 
-<!-- Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-   -->
 
 Teaching
 ======
@@ -99,7 +93,14 @@ Universidad Simon Bolivar
     {% endif %}
   {% endfor %}</ul>
 
-Service and leadership
+Invited Talks
+======
+
+  <ul>{% for post in site.talks  reversed %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+
+Service
 ======
 
 Conference Paper Reviewing
