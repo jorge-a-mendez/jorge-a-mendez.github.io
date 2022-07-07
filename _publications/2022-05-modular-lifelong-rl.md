@@ -16,6 +16,6 @@ bibtex: '@inproceedings{mendez2022modular,
  <br> title={Modular Lifelong Reinforcement Learning via Neural Composition},
  <br> author={Jorge A. Mendez and Harm van Seijen and Eric Eaton},
  <br> booktitle={10th International Conference on Learning Representations (ICLR-22)},
- <br> year={2022},
+ <br> year={2022}
 <br>}'
 ---
