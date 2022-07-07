@@ -17,6 +17,6 @@ bibtex: '@inproceedings{mendez2021lifelong,
  <br> title={Lifelong Learning of Compositional Structures},
  <br> author={Jorge A. Mendez and Eric Eaton},
  <br> booktitle={9th International Conference on Learning Representations (ICLR-21)},
- <br> year={2021},
+ <br> year={2021}
 <br>}'
 ---
