@@ -14,7 +14,7 @@ abstract: 'A hallmark of human intelligence is the ability to construct self-con
 bibtex: '@phdthesis{mendez2022lifelong,
 <br> author = {Mendez, Jorge A.},
 <br> school = {University of Pennsylvania},
-<br> title = {Lifelong Inverse Reinforcement Learning},
+<br> title = {Lifelong Machine Learning of Functionally Compositional Structures},
 <br> year = {2012}
 <br>}'
 ---
