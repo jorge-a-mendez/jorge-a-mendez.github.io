@@ -73,6 +73,14 @@ Workshop Papers
     {% endif %}
   {% endfor %}</ul>
 
+Theses
+-----
+  <ul>{% for post in site.publications reversed %}
+    {% if post.type == 'thesis' %}
+      {% include archive-single-publication-cv.html %}
+    {% endif %}
+  {% endfor %}</ul>
+
 
 Teaching
 ======

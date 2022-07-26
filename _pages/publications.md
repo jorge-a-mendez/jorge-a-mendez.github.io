@@ -37,3 +37,13 @@ Workshop Papers
     {% include archive-single-publication.html %}
   {% endif %}
 {% endfor %}
+
+
+Theses
+-----
+
+{% for post in site.publications reversed %}
+  {% if post.type == 'thesis' %}
+    {% include archive-single-publication.html %}
+  {% endif %}
+{% endfor %}
