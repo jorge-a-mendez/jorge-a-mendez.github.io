@@ -19,6 +19,10 @@ Education
 
 Research Experience
 ======
+* 2022-Present: Postdoctoral Fellow
+  * CSAIL, Massachusetts Institute of Technology
+  * Topics: compositionality, planning and learning, robotics, lifelong learning
+  * Supervisors: [Tomas Lozano-Perez](https://people.csail.mit.edu/tlp/) and [Leslie Pack Kaelbling](https://people.csail.mit.edu/lpk/)
 
 * Summer 2022: Postdoctoral Researcher
   * GRASP Lab, University of Pennsylvania
@@ -115,7 +119,7 @@ Conference Paper Reviewing
 ----
 * ICML, International Conference on Machine Learning (2021<sup>\*</sup>)
 * ICLR, International Conference on Learning Representations (2021<sup>\*</sup>, 2022<sup>\*</sup>)
-* NeurIPS, Conference on Neural Information Processing Systems (2020, 2021<sup>\*</sup>)
+* NeurIPS, Conference on Neural Information Processing Systems (2020, 2021<sup>\*</sup>, 2022)
 * ICRA / RA-L, International Conference on Robotics and Automation (2020, 2021)
 * Conference paper co-reviewer:
   * IJCAI, International Joint Conference on Artificial Intelligence (2017, 2018, 2019)
