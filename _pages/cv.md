@@ -60,7 +60,16 @@ Preprints
       {% include archive-single-publication-cv.html %}
     {% endif %}
   {% endfor %}</ul>
-  
+
+Journal Articles
+-----
+  <ul>{% for post in site.publications reversed %}
+    {% if post.type == 'journal' %}
+      {% include archive-single-publication-cv.html %}
+    {% endif %}
+  {% endfor %}</ul>
+
+
 Conference Papers
 -----
   <ul>{% for post in site.publications reversed %}
