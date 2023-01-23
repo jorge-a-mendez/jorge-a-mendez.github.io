@@ -6,6 +6,7 @@ type: 'journal'
 permalink: /publication/2023-gap-minimization
 excerpt: 'We extended the notion of performance gap for measuring domain discrepancy (NeurIPS-19) to a variety of transfer and multi-task learning settings, and introduced two new algorithms based on this notion for improving transfer and multi-task learning performance.'
 date: 2023-01-26
+venue: 'Journal of Machine Learning Research (JMLR)'
 paperurl: 'https://arxiv.org/pdf/2201.11231.pdf'
 authors: '<a href="https://sites.google.com/site/borriewang/">Boyu Wang</a>, <strong>Jorge A. Mendez</strong>, <a href="https://cjshui.github.io">Changjian Shui</a>, <a href="https://fzhou.cc">Fan Zhou</a>, <a href="https://sites.google.com/view/di-wu/home?authuser=1"> Di Wu</a>, Xu, Gezheng, <a href="https://chgagne.github.io/english/">Christian Gagne</a>, <a href="https://seas.upenn.edu/~eeaton/">Eric Eaton</a>'
 thumbnail: 'GapBoost.jpg'
