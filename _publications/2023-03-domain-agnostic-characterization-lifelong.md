@@ -16,5 +16,6 @@ bibtex: "@article{https://doi.org/10.48550/arxiv.2301.07799,
 <br> journal = {Neural Networks},
 <br> year = {2023},
 <br> volume = {160},
+<br> pages = {274--296},
 <br> url = {https://arxiv.org/abs/2301.07799}}"
 ---
