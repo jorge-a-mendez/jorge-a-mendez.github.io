@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jorge Mendez"
   avatar           : "jorge-a-mendez.jpg"
-  bio              : "Postdoctoral Fellow at MIT CSAIL. CS PhD from GRASP Lab at University of Pennsylvania. Works on lifelong learning and compositionality."
+  bio              : "Postdoctoral Fellow at MIT CSAIL. CS PhD from GRASP Lab at University of Pennsylvania. Works on embodied lifelong learning and compositionality."
   location         : 
   employer         :
   pubmed           : 
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "JorgeAMendez_"
   wikipedia        :
 
 

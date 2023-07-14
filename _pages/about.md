@@ -14,4 +14,4 @@ During my Ph.D., I was fortunate to work as a research intern in 2021 at FAIR NY
 Research Interests
 -----
 
-I'm interested in the creation of versatile artificially intelligent systems that learn to accumulate knowledge over their lifetimes. I focus on the question of how agents can decompose the complex knowledge required to model a lifelong data stream into simpler units that can be adapted and reused in the future. My work applies these methods to computer vision, robotics, and natural language.
+I'm interested in the creation of versatile, intelligent, embodied agents that learn to better interact with the world by accumulating knowledge over their lifetimes. I focus on the question of how these agents can leverage various forms of compositional and modular structures to transform the complex problem of modeling a lifelong data stream into simpler problems that can be more easily solved and whose solutions can be adapted, recombined, and reused in the future. My work mainly applies these methods to robotics, and also engages with related fields like computer vision and natural language.

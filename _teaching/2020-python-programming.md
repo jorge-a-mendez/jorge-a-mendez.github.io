@@ -6,7 +6,6 @@ type: "Undergraduate course"
 # permalink: /teaching/2015-spring-teaching-1
 venue: "University of Pennsylvania"
 date: 2020-01-01
-classurl: "https://www.seas.upenn.edu/~cis192/jorge/"
 alldates: "Fall '19, Spring '20"
 location: "Philadelphia, PA"
 position: "Instructor"
