@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jorge Mendez"
+title                    : "Jorge Mendez-Mendez"
 title_separator          : "-"
-name                     : &name "Jorge Mendez"
+name                     : &name "Jorge Mendez-Mendez"
 description              : &description "personal description"
 url                      : https://jorge-a-mendez.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jorge Mendez"
+  name             : "Jorge Mendez-Mendez"
   avatar           : "jorge-a-mendez.jpg"
   bio              : "Postdoctoral Fellow at MIT CSAIL. CS PhD from GRASP Lab at University of Pennsylvania. Works on embodied lifelong learning and compositionality."
   location         : 
