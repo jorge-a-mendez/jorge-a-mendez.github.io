@@ -23,6 +23,10 @@
     @include suffix(2 of 12);
   }
 
+  @include breakpoint($x-large) {
+    @include span(9.95 of 12 last)
+  }
+
   .page__inner-wrap {
     @include full();
 

@@ -26,6 +26,7 @@
 
 
   @include breakpoint($x-large) {
+    @include span(2.05 of 12);
     padding-right: 0;
   }
 
@@ -83,7 +84,7 @@
   }
 
   img {
-    max-width: 175px;
+    max-width: 300px;
   }
 }
 
