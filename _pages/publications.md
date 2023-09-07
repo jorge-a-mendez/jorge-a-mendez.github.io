@@ -11,6 +11,16 @@ author_profile: true
 
 {% include base_path %}
 
+Blog posts
+-----
+<h3 class="archive__item-title" itemprop="headline" style="margin-bottom:0px;">
+    <a href="https://lis.csail.mit.edu/embodied-lifelong-learning-for-decision-making/">Embodied lifelong learning for decision making: Opportunities brought on by modularity</a>
+</h3>
+<p style="margin-top:0px;">
+  2023
+</p>
+
+
 Preprints
 -----
 

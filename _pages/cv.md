@@ -124,6 +124,10 @@ Invited Talks
 Service
 ======
 
+Journal Article Reviewing
+----
+* IJRR, International Journal of Robotics Research (2023)
+
 Conference Paper Reviewing
 ----
 * NeurIPS Datasets and Benchmarks Track (2023)
