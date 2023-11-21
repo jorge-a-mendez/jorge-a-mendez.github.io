@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<span style="color:red">**I am on the job market this cycle for faculty or industry research positions starting in Fall 2024. My research agenda centers on embodied lifelong learning. I cover my thoughts on how we can tackle this massive challenge in [this blog post](https://lis.csail.mit.edu/embodied-lifelong-learning-for-decision-making/). Here is my [research statement](/files/ResearchStatement_JMM.pdf)**</span>
+<span style="color:red">**I am on the job market this cycle for faculty or industry research positions starting in Fall 2024. My research agenda centers on embodied lifelong learning. I cover my thoughts on how we can tackle this massive challenge in [this blog post](https://lis.csail.mit.edu/embodied-lifelong-learning-for-decision-making/). Here is my [research statement](/files/ResearchStatement_JMM.pdf).**</span>
 
 
 I am a Postdoctoral Fellow at the [Learning &amp; Intelligent Systems Group](https://lis.csail.mit.edu) at [MIT CSAIL](https://www.csail.mit.edu), where I work with [Prof. Tom&aacute;s Lozano-P&eacute;rez](https://people.csail.mit.edu/tlp/) and [Prof. Leslie Pack Kaelbling](http://people.csail.mit.edu/lpk/). I obtained my Ph.D. at the [Lifelong Machine Learning Group](https://lifelongml.seas.upenn.edu) at the [University of Pennsylvania](http://cis.upenn.edu), where I was advised by [Prof. Eric Eaton](https://seas.upenn.edu/~eeaton). I previously obtained a Master's degree in Robotics from the [GRASP Lab](https://www.grasp.upenn.edu) at Penn, and got my Bachelor's degree in Electronics Engineering from [Universidad Sim&oacute;n Bol&iacute;var](http://www.usb.ve) in Venezuela.
