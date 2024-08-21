@@ -11,14 +11,11 @@ See the PDF version [here](/files/CVJorgeAMendez.pdf).
 
 {% include base_path %}
 
-Education
-======
-* Ph.D. in Computer and Information Science, University of Pennsylvania, 2022
-* M.S.E. in Robotics, University of Pennsylvania, 2018
-* B.S. in Eletronics Engineering, Universidad Simon Bolivar (Venezuela), 2016
+Academic Appointments
+=====
+* 2024-Present: Assistant Professor
+  * Electrical and Computer Engineering, Stony Brook University
 
-Research Experience
-======
 * 2022-Present: Postdoctoral Fellow
   * CSAIL, Massachusetts Institute of Technology
   * Topics: compositionality, planning and learning, robotics, lifelong learning
@@ -34,6 +31,15 @@ Research Experience
   * Topics: lifelong learning, reinforcement learning, compositionality
   * Supervisor: [Eric Eaton](https://seas.upenn.edu/~eeaton)
 
+
+Education
+======
+* Ph.D. in Computer and Information Science, University of Pennsylvania, 2022
+* M.S.E. in Robotics, University of Pennsylvania, 2018
+* B.S. in Eletronics Engineering, Universidad Simon Bolivar (Venezuela), 2016
+
+Other Research Appointments
+======
 * Summer 2021: Research Intern
   * Facebook AI Research, NYC
   * Topics: mixture of experts models
@@ -53,13 +59,13 @@ Research Experience
 Publications
 ======
 
-Preprints
+<!-- Preprints
 -----
   <ul>{% for post in site.publications reversed %}
     {% if post.type == 'preprint' %}
       {% include archive-single-publication-cv.html %}
     {% endif %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
 
 Journal Articles
 -----

@@ -7,6 +7,15 @@ author_profile: true
 
 {% include base_path %}
 
+Stony Brook University
+-----
+
+{% for post in site.teaching reversed %}
+  {% if post.venue == "Stony Brook University" %}
+    {% include archive-single-teaching.html %}
+  {% endif %}
+{% endfor %}
+
 University of Pennsylvania
 -----
 
