@@ -6,6 +6,7 @@ type: 'conference'
 permalink: /publication/2024-compositional-offline-rl-datasets
 excerpt: 'We release four datasets of simulated robotic manipulation trajectories for offline compositional reinforcement learning.'
 date: 2024-08-09
+venue: 'Reinforcement Learning Conference (RLC)'
 paperurl: 'https://arxiv.org/pdf/2307.07091.pdf'
 authors: 'Marcel Hussing<sup>&ast;</sup>, <strong>Jorge Mendez-Mendez</strong><sup>&ast;</sup>, Anisha Singrodia, <a href="https://dekent.github.io">Cassandra Kent</a>, <a href="https://seas.upenn.edu/~eeaton/">Eric Eaton</a>'
 thumbnail: 'OfflineComposuite.png'
