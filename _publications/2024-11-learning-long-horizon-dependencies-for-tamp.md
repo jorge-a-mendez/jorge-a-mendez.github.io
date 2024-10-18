@@ -12,7 +12,7 @@ authors: 'Bartlomiej Cieslar, <a href="http://people.csail.mit.edu/lpk/">Leslie 
 thumbnail: 'LongHorizonTAMP.png'
 abstract: 'Autonomous robots will need the ability to make task and motion plans that involve long sequences of actions, e.g. to prepare a meal. One challenge is that the feasibility of actions late in the plan may depend on much earlier actions. This issue is exacerbated if these dependencies exist at a purely geometric level, making them difficult to express for a task planner. Backtracking is a common technique to resolve such geometric dependencies, but its time complexity limits its applicability to short-horizon dependencies. We propose an approach to account for these dependencies by learning a search heuristic for task and motion planning. We evaluate our approach on five quasi-static simulated domains and show a substantial improvement in success rate over the baselines.'
 bibtex: "@inproceedings{cieslar2024learning,
-    <br> author = {Cieslar, Bartlomiej and Kaelbling, Leslie Pack and Lozano-Perez, Tomas and Mende-Mendez, Jorge},
+    <br> author = {Cieslar, Bartlomiej and Kaelbling, Leslie Pack and Lozano-Perez, Tomas and Mendez-Mendez, Jorge},
     <br> booktitle = {Proceedings of the 8th Conference on Robot Learning (CoRL-24)},
     <br> title = {Learning Long-Horizon Action Dependencies in Sampling-Based Bilevel Planning},
     <br> year = {2024},
