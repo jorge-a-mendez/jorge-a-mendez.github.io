@@ -5,7 +5,7 @@ collection: publications
 type: 'conference'
 permalink: /publication/2024-learning-long-horizon-dependencies-for-tamp
 excerpt: 'We learn a heuristic to optimize backtracking in sampling-based approaches to Task and Motion Planning, by looking ahead at future actions in a task plan before making decisions about how to parameterize the current action.'
-date: 2023-11-06
+date: 2024-11-06
 venue: 'Conference on Robot Learning (CoRL)'
 paperurl: 'https://openreview.net/pdf?id=DsFQg0G4Xu'
 authors: 'Bartlomiej Cieslar, <a href="http://people.csail.mit.edu/lpk/">Leslie Kaelbling</a>, <a href="http://people.csail.mit.edu/tlp/">Tomas Lozano-Perez</a>, and <strong>Jorge Mendez-Mendez</strong>'
