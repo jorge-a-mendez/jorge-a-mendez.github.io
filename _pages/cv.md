@@ -6,7 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
 See the PDF version [here](/files/CVJorgeAMendez.pdf).
 
 {% include base_path %}
