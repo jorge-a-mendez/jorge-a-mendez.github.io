@@ -1,6 +1,5 @@
 ---
 permalink: /
-<<<<<<< HEAD
 title: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-<<<<<<< HEAD
 
 <span style="color:red">**I am recruting highly motivated PhD students to work with me starting Fall '25. If your research interests align with mine, please apply to the [ECE](https://www.stonybrook.edu/commcms/electrical/graduate/admissions.php) or [CS](https://www.cs.stonybrook.edu/admissions/Graduate-Program) PhD program at Stony Brook.**</span>
 

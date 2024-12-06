@@ -88,12 +88,8 @@ Single line blockquote:
 | Header1 | Header2 | Header3 |
 |:--------|:-------:|--------:|
 | cell1   | cell2   | cell3   |
-<<<<<<< HEAD
-| cell4   | cell5   | cell6   |
-=======
 | cell4   | ce
 ll5   | cell6   |
->>>>>>> upstream/master
 |-----------------------------|
 | cell1   | cell2   | cell3   |
 | cell4   | cell5   | cell6   |
