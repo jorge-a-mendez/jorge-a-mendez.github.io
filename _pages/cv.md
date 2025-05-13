@@ -138,17 +138,25 @@ Invited Talks
 Service
 ======
 
+Organization
+----
+* Tutorials Chair for Conference on Lifelong Learning Agents (2025)
+* Finance and Sponsorship Co-Chair for LatinX in AI Workshop at NeurIPS (2022)
+
 Journal Article Reviewing
 ----
 * IJRR, International Journal of Robotics Research (2023)
 
 Conference Paper Reviewing
 ----
-* NeurIPS Datasets and Benchmarks Track (2023)
-* ICLR, International Conference on Learning Representations (2021<sup>\*</sup>, 2022<sup>\*</sup>)
-* ICML, International Conference on Machine Learning (2021<sup>\*</sup>)
-* NeurIPS, Conference on Neural Information Processing Systems (2020, 2021<sup>\*</sup>, 2022)
+* NeurIPS, Conference on Neural Information Processing Systems (2020, 2021<sup>\*</sup>, 2022, 2024)
 * ICRA / RA-L, International Conference on Robotics and Automation (2020, 2021, 2023)
+* ICLR, International Conference on Learning Representations (2021<sup>\*</sup>, 2022<sup>\*</sup>, 2023, 2024, 2025)
+* ICML, International Conference on Machine Learning (2021<sup>\*</sup>, 2025)
+* NeurIPS Datasets and Benchmarks Track (2023, 2024)
+* CoRL, Conference on Robot Learning (2024, 2025)
+* RLC, Reinforcement Learning Conference (2024)
+* RSS, Robotics Science and Systems (2025)
 * Conference paper co-reviewer:
   * IJCAI, International Joint Conference on Artificial Intelligence (2017, 2018, 2019)
   * ICML, International Conference on Machine Learning (2018)
