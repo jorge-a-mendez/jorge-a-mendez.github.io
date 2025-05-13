@@ -103,6 +103,15 @@ Theses
 Teaching
 ======
 
+Stony Brook University
+------
+  <ul>{% for post in site.teaching reversed %}
+    {% if post.venue == "Stony Brook University" %}
+      {% include archive-single-teaching-cv.html %}
+    {% endif %}
+  {% endfor %}</ul>
+
+
 University of Pennsylvania
 ------
   <ul>{% for post in site.teaching reversed %}
