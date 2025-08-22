@@ -37,6 +37,20 @@ Education
 * M.S.E. in Robotics, University of Pennsylvania, 2018
 * B.S. in Eletronics Engineering, Universidad Simon Bolivar (Venezuela), 2016
 
+Honors and Awards
+======
+* Invited to Dagstuhl Seminar on Deep Continual Learning in the Foundation Model Era. 2025
+* Early-Career Spotlight at the Conference on Lifelong Learning Agents, 2025
+* MIT-IBM Distinguished Postdoctoral Fellowship, 2022-2024
+* 3rd place award of the Two Sigma Diversity PhD Fellowship ($5,000), 2021
+* Best paper award at the 4th Lifelong Learning Workshop at ICML for "Lifelong learning of factored policies via policy gradients", 2020
+* Outstanding reviewer or equivalent at ICLR, ICML, and NeurIPS, 2021-2022
+* Exceptionally Good Thesis award at Universidad Simon Bolivar for "Implementation of algorithms and debugging for STMicroelectronics wearable platform", 2016
+* Top 30 GPAs at Universidad Simon Bolivar among students in the final two years, 2015-2016
+* Top 10 GPAs at Universidad Simon Bolivar (3 / 750) among first-year students, 2011
+* Top 50 entrance placement exams at Universidad Simon Bolivar (25 / 7409)
+
+
 Other Research Appointments
 ======
 * Summer 2021: Research Intern
