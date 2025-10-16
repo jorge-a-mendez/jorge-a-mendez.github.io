@@ -72,13 +72,13 @@ Other Research Appointments
 Publications
 ======
 
-<!-- Preprints
+Preprints
 -----
   <ul>{% for post in site.publications reversed %}
     {% if post.type == 'preprint' %}
       {% include archive-single-publication-cv.html %}
     {% endif %}
-  {% endfor %}</ul> -->
+  {% endfor %}</ul>
 
 Journal Articles
 -----
