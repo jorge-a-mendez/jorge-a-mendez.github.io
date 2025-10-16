@@ -39,7 +39,7 @@ Education
 
 Honors and Awards
 ======
-* Invited to Dagstuhl Seminar on Deep Continual Learning in the Foundation Model Era. 2025
+* Invited to Dagstuhl Seminar on Deep Continual Learning in the Foundation Model Era, 2025
 * Early-Career Spotlight at the Conference on Lifelong Learning Agents, 2025
 * MIT-IBM Distinguished Postdoctoral Fellowship, 2022-2024
 * 3rd place award of the Two Sigma Diversity PhD Fellowship ($5,000), 2021
